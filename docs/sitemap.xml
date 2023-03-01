@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://neuroexpertise.com/index.html</loc>
-    <lastmod>2023-03-01T13:19:39.197Z</lastmod>
+    <lastmod>2023-03-01T13:43:48.035Z</lastmod>
   </url>
   <url>
     <loc>https://neuroexpertise.com/About/index.html</loc>
-    <lastmod>2023-03-01T13:19:19.533Z</lastmod>
+    <lastmod>2023-03-01T13:43:58.284Z</lastmod>
   </url>
   <url>
     <loc>https://neuroexpertise.com/Blog/index.html</loc>
@@ -18,6 +18,10 @@
   </url>
   <url>
     <loc>https://neuroexpertise.com/Publications/index.html</loc>
-    <lastmod>2023-03-01T13:19:07.259Z</lastmod>
+    <lastmod>2023-03-01T13:43:55.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neuroexpertise.com/Research_new/index.html</loc>
+    <lastmod>2023-03-01T13:42:33.622Z</lastmod>
   </url>
 </urlset>

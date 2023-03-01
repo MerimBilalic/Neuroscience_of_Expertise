@@ -15,7 +15,7 @@ website:
         text: About
       - href: Research/index.qmd
         text: Research
-      - href: Publication/index.qmd
+      - href: Publications/index.qmd
         text: Publications
       - href: NeuroExpertise/index.qmd
         text: NeuroExpertise
