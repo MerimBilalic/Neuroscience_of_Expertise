@@ -1,0 +1,14 @@
+---
+title: "NeuroExpert Blog"
+description: Thoughts on (expertise) research
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+
+To come

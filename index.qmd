@@ -1,11 +1,24 @@
 ---
-title: "Neuroscience_of_Expertise"
+format: 
+  html:
+    page-layout: full
+about:
+  template: trestles
+  image: images/Cover.png
+  image-width: 25em
+  image-shape: rounded
+  #page-layout: full
+
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/NoE
+    - icon: github
+      text: github
+      href: https://github.com/NoE
+    - icon: envelope
+      text: mail
+      href: mailto:Merim.Bilalic@northumbria.ac.uk
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+# Merim Bilalić <br> [Professor of Cognitive Psychology](https://www.northumbria.ac.uk/about-us/our-staff/b/merim-bilalic/) <br> [Department of Psychology](https://www.northumbria.ac.uk/about-us/academic-departments/psychology/) <br>[Northumbria University at Newcastle](https://www.northumbria.ac.uk) <br> [Newcastle upon Tyne, United Kingdom](https://www.newcastle.gov.uk)

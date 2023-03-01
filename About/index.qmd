@@ -1,0 +1,63 @@
+::: columns
+::: {.column width="70%"}
+<span style="font-size: 18pt"/span> **Merim Bilalić**\
+<br><span style="font-size: 14pt"/span>[Professor of Cognitive Psychology](https://www.northumbria.ac.uk/about-us/our-staff/b/merim-bilalic/) <br> [Department of Psychology](https://www.northumbria.ac.uk/about-us/academic-departments/psychology/) <br>[Northumbria University at Newcastle](https://www.northumbria.ac.uk) <br> [Newcastle upon Tyne, United Kingdom](https://www.newcastle.gov.uk)
+:::
+
+::: {.column width="30%"}
+![](Bilalic_Merim_2016_round.png){width="195"}
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=-p44Jc0AAAAJ&hl=enJ)\
+[{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Merim-Bilalic)
+:::
+
+::: {.column width="30%"}
+[{{< ai osf >}} OSF](https://osf.io/ydn7a/)\
+[{{< ai semantic-scholar >}} Semantic Scholar](https://www.semanticscholar.org/author/M.-Bilalic/2446926)
+:::
+:::
+
+# Education
+
+::: columns
+::: {.column width="10%"}
+2006 <br> <br> <br> <br> <br> 2002 <br> 2012
+:::
+
+::: {.column width="50%"}
+**D.Phil.** in Experimental Psychology\
+- Funded by [Clarendon Scholarship](https://www.ox.ac.uk/clarendon) & [ORS](https://en.wikipedia.org/wiki/Overseas_Research_Scholarship)\
+- [BPS](https://www.bps.org.uk/) [Outstanding Doctoral Research Award](https://www.bps.org.uk/award-outstanding-doctoral-research-contributions-psychology)\
+- [Scientific Award](https://de.chessbase.com/post/wienschaftspreis-der-ksa-fr-merim-bilalic) [Karpov Chess Academy](http://www.schachakademie-hockenheim.de/impressum_index.htm)\
+<br>**Diploma** (BSc + MSc) in Psychology\
+**Habilitation** in Psychology
+:::
+
+::: {.column width="30%"}
+**Oxford University** <br> <br> <br><br> <br> **Sarajevo University** <br> **Tübingen University**
+:::
+:::
+
+# Academic Positions
+
+::: columns
+::: {.column width="20%"}
+2016 --- <br> 2013 --- 2017 <br> 2011 --- 2011 <br> 2008 --- 2008 <br> 2007 --- 2013 <br> 2006 --- 2007 <br> 2005 --- 2006<br>
+:::
+
+::: {.column width="50%"}
+**Professor of Cognitive Psychology** <br> **Professor of General Psychology** <br> **Stand-in Professor of Cognitive Psychology** <br> **Honorary Lecturer** <br> **Independent Research Fellow** <br> **Postdoctoral Fellow** <br> **Postdoctoral Fellow** <br>
+:::
+
+::: {.column width="30%"}
+**Northumbria University** <br> **Klagenfurt University** <br> **Tübingen University** <br> **Brunel University London** <br> **Tübingen University** <br> **Brunel University London** <br> **Humboldt University Berlin** <br>
+:::
+:::
+
+# Short Bio
+
+<span style="font-size: 14pt"/span>**Merim Bilalić** <span style="font-size: 14pt"/span> is Professor of Cognitive Psychology at Northumbria University, Newcastle. He received his DPhil in Experimental Psychology from Oxford University, and has held research and teaching positions at Humboldt University, Brunel University, Tübingen University, and Klagenfurt University. In 2008, Merim Bilalić was recognized for his doctoral research on the (in)flexibility of experts with the [Award for the Outstanding Doctoral Research Contribution to Psychology](https://www.bps.org.uk/award-outstanding-doctoral-research-contributions-psychology) from the British Psychological Society. The following year, his psychological research on chess expertise was honored with the [Scientific Award of the Karpow Chess Academy](https://de.chessbase.com/post/wienschaftspreis-der-ksa-fr-merim-bilalic). His latest book, [The Neuroscience of Expertise](https://www.cambridge.org/core/books/the-neuroscience-of-expertise/CA92349C4DDFF183B609C202775FBED0), was published by Cambridge University Press in 2017. He holds the [FIDE Chess Master title](https://ratings.fide.com/profile/14401118) and was the junior (U20) champion of Bosnia and Herzegovina in 1996.

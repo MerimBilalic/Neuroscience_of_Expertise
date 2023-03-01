@@ -1,20 +1,45 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
 
 website:
-  title: "Neuroscience_of_Expertise"
+  title: "The Neuroscience of Expertise"
+  site-url: "https://neuroexpertise.com"
   navbar:
+    background: "#536878"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: About/index.qmd
+        text: About
+      - href: Research/index.qmd
+        text: Research
+      - href: Publication/index.qmd
+        text: Publications
+      - href: NeuroExpertise/index.qmd
+        text: NeuroExpertise
+      - href: Blog/index.qmd
+        text: Blog
+
+  page-footer:
+    left: "Copyleft 2023, Merim Bilalić"
+    right:
+      - icon: github
+        href: https://github.com/NoE
+      - icon: twitter
+        href: https://twitter.com/NoE
+    background: "#536878"
+
+date-format: "D MMMM YYYY"
+freeze: true
+
 
 format:
   html:
-    theme: cosmo
+    theme: tango
     css: styles.css
     toc: true
-
-editor: visual
-
+    html-math-method: katex
+    include-in-header:
+      file: header.html
