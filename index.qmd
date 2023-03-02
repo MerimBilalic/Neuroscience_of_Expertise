@@ -13,10 +13,10 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com/NoE
+      href: https://twitter.com/MerimBilalic
     - icon: github
       text: github
-      href: https://github.com/NoE
+      href: https://github.com/MerimBilalic
     - icon: envelope
       text: mail
       href: mailto:Merim.Bilalic@northumbria.ac.uk

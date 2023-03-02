@@ -26,13 +26,17 @@ website:
       - href: Blog/index.qmd
         text: Blog
     
+  
   page-footer:
-    left: "Copyleft 2023, Merim Bilalić"
+ # <span class="copyleft">&copy;</span>
+   #![](/images/Logo2.png)
+  # \uD83C\uDD2F
+    left:  "Copyleft Merim Bilalić 2023"
     right:
       - icon: github
-        href: https://github.com/NoE
+        href: https://github.com/MerimBilalic
       - icon: twitter
-        href: https://twitter.com/NoE
+        href: https://twitter.com/MerimBilalic
     background: "#536878"
 
 date-format: "D MMMM YYYY"
