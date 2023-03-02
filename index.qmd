@@ -2,9 +2,10 @@
 format: 
   html:
     page-layout: full
+    
 about:
   template: trestles
-  image: images/Cover.png
+  image: images/NoE.png
   image-width: 25em
   image-shape: rounded
   #page-layout: full

@@ -1,15 +1,23 @@
 /* =Typography
 -----------------------------------------------------------------------------*/
 
+
 .navbar {
    background-color: darkred;
    font-size: 1.2em;
 }
 
+
 .nav-footer {
   background: darkred;
 }
 
+
+
+.navbar-brand img {
+  height: 200px !important;
+  width: auto;
+}
 
 body {
   font-family: 'Carlito';

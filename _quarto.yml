@@ -7,8 +7,12 @@ project:
 
 website:
   title: "The Neuroscience of Expertise"
-  site-url: "https://neuroexpertise.com"
+  site-url: "https://neuroscienceofexpertise.com"
+  favicon: images/Logo2.png
+  
   navbar:
+    logo: /images/Logo2.png
+    title: The Neuroscience of Expertise
     background: "#536878"
     left:
       - href: About/index.qmd
@@ -18,10 +22,10 @@ website:
       - href: Publications/index.qmd
         text: Publications
       - href: NeuroExpertise/index.qmd
-        text: NeuroExpertise
+        text: NoE Book
       - href: Blog/index.qmd
         text: Blog
-
+    
   page-footer:
     left: "Copyleft 2023, Merim Bilalić"
     right:

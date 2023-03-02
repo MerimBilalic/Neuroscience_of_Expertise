@@ -1,6 +1,6 @@
 ---
-title: "NeuroExpert Blog"
-description: Thoughts on (expertise) research
+title: "(Neuro)Expertise Blog"
+description: Thoughts on (neuro) expertise research
 listing:
   contents: .
   sort: "date desc"
