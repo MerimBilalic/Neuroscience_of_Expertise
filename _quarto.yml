@@ -4,12 +4,18 @@ project:
   render:
     - "*.qmd"
     - "*.md"
+    - "*.Rmd"
+description-meta: "Merim Bilalic website. The Neuroscience of Expertise Book. Expertise Research. Outstanding Performance, Skilled Brain"
 
 website:
   title: "The Neuroscience of Expertise"
   site-url: "https://neuroscienceofexpertise.com"
+  repo-url: https://github.com/MerimBilalic/Neuroscience_of_Expertise/
+  description: "Website of Merim Bilalic"
   favicon: images/Logo2.png
-  
+  google-analytics: "G-2275BR33CK"
+  cookie-consent: true    
+
   navbar:
     logo: /images/Logo2.png
     title: The Neuroscience of Expertise
@@ -28,16 +34,21 @@ website:
     
   
   page-footer:
- # <span class="copyleft">&copy;</span>
-   #![](/images/Logo2.png)
-  # \uD83C\uDD2F
-    left:  "Copyleft Merim Bilalić 2023"
-    right:
-      - icon: github
-        href: https://github.com/MerimBilalic
-      - icon: twitter
-        href: https://twitter.com/MerimBilalic
     background: "#536878"
+    left: |
+      Content {{< fa brands creative-commons >}} 2023 by Merim Bilalić<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/MerimBilalic/Neuroscience_of_Expertise/)
+    
+    
+    #right:
+    #  - icon: github
+    #    href: https://github.com/MerimBilalic
+    #  - icon: twitter
+    #    href: https://twitter.com/MerimBilalic
 
 date-format: "D MMMM YYYY"
 freeze: true

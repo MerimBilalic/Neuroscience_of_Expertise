@@ -16,7 +16,13 @@
   background: darkred;
 }
 
+.nav-footer-left {
+  text-align: left;
+}
 
+.nav-footer-right {
+  text-align: right;
+}
 
 .navbar-brand img {
   height: 200px !important;
